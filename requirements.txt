@@ -1,0 +1,6 @@
+llama-index-core~=0.12.32
+pydantic~=2.11.3
+dotenv~=0.9.9
+python-dotenv~=1.1.0
+langchain-community~=0.3.22
+langchain~=0.3.24
